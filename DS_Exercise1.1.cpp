@@ -1,5 +1,3 @@
-//DS_Exercise 1.1
-//Sean Smith: 2904982
 #include <iostream>
 #include <mpi.h>
 #include <time.h>
